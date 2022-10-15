@@ -5,4 +5,3 @@
 - 📫 How to reach me: 1251604436@qq.com.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=betterwinsone&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=betterwinsone)
